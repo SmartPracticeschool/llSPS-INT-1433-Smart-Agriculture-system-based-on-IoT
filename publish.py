@@ -8,7 +8,7 @@ organization='a5yxee'
 deviceType='iotdevice'
 deviceId='motor'
 authMethod='token'
-authToken='rushi123'
+authToken='******'
 
 def myCommandCallback(cmd):
     print('Command received: %s' % cmd.data)
