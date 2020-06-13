@@ -16,3 +16,8 @@ The project comprises of three main parts:
 3.OpenWeather API - It is an internet based API platform to provide weather information of a region
 
 
+
+Project demo video can be seen at:
+https://youtu.be/axz8lbzyFYM
+
+
